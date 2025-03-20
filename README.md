@@ -13,3 +13,6 @@ My name is Shanitah Nassolo and I'm a software engineer who enjoys tackling a wi
 <img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&localColor=white&style=for-the-badge" />
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&localColor=white&style=for-the-badge" />
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&localColor=white&style=for-the-badge" />
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&localColor=white&style=for-the-badge" />
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&localColor=white&style=for-the-badge" />
+<img alt="mysql-workbench" src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&localColor=white&style=for-the-badge" />
