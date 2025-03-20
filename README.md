@@ -9,3 +9,7 @@ My name is Shanitah Nassolo and I'm a software engineer who enjoys tackling a wi
 <img alt = "angular" src= "https://img.shields.io/badge/Angular-0F0F11?logo=angular&localColor=black&style=for-the-badge" />
 <img alt = "javascript" src= "https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&localColor=black&style=for-the-badge" />
 <img alt = "css" src= "https://img.shields.io/badge/CSS-1572B6?logo=css3&localColor=black&style=for-the-badge" />
+<img alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&localColor=black&style=for-the-badge" />
+<img alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&localColor=white&style=for-the-badge" />
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&localColor=white&style=for-the-badge" />
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&localColor=white&style=for-the-badge" />
