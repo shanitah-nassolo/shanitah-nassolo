@@ -21,7 +21,7 @@ My name is Shanitah Nassolo and I'm a software engineer but focused more on the 
 ### Linkedin
 https://www.linkedin.com/in/shanitah-nassolo-6b7471282/
 
-### Portifolio
+### My Portifolio
 https://heartfelt-starburst-b2b882.netlify.app/
 
 
