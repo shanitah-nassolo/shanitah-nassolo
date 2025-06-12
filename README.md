@@ -1,6 +1,6 @@
 ### Hi there  and welcome to my GitHub page 👋
 
-My name is Shanitah Nassolo and I'm a software engineer but focusing more on the front changes, as well as UI/UX design or product design who enjoys tackling a wide range of projects. Here you'll find a mix of personal experiments, contributions to open source, and maybe even a few things that'll pique your interest. Let's build something cool together!
+My name is Shanitah Nassolo and I'm a software engineer but focused more on the frontend, as well as UI/UX design or product design who enjoys tackling a wide range of projects. Here you'll find a mix of personal experiments, contributions to open source, and maybe even a few things that'll pique your interest. Let's build something cool together!
 
 ---
 
